@@ -8,7 +8,7 @@ I made this as a Univeristy project in my first year, and it remained as one of 
 
 ## Aim of the game
 
-This is a game where you play as a Samurai who practices peace. He does not draw his blade and prefers to settle things peacefully.
+This is a game where you play as a Samurai who practices peace. He does not draw his blade and prefers to complete his missions using stealth.
 
 Complete the samurai's tasks hes been assigned without violence. Collect the coins, find the secrets hidden within the map and make it home safely.
 
